@@ -1,44 +1,55 @@
-Hi there, I'm Nitin Singh 👋
-Full Stack Developer | MERN Stack | GenAI & Agentic AI Enthusiast
-I am passionate about engineering scalable web applications, integrating AI-powered features, and solving complex algorithmic challenges. I thrive on designing efficient backend systems, building LLM applications, and continuously adopting modern software engineering practices to turn ambitious ideas into production-ready products.
+# Hi there, I'm Nitin Singh 👋
 
-🚀 What I'm Up To
-🔭 Building: Scalable MERN stack applications and AI-first products.
+### Full Stack Developer | MERN Stack | GenAI & Agentic AI Enthusiast
 
-🌱 Learning: Advanced Backend Engineering, System Design, and the mechanics of Agentic AI.
+I'm a passionate software developer who enjoys building scalable web applications, AI-powered products, and robust backend systems. I love transforming ideas into real-world applications by combining modern web technologies with Generative AI. Alongside development, I have a strong passion for Data Structures & Algorithms and continuously strive to write clean, efficient, and production-ready code.
 
-🤖 Exploring: RAG, AI Agents, LangChain, MCP, Vector Databases, and practical LLM applications.
+---
 
-🤝 Collaborating: Always open to teaming up on innovative Backend, Full Stack, and AI projects.
+## 🚀 What I'm Working On
 
-💬 Let's discuss: MERN Stack, Node.js, GenAI, and Data Structures & Algorithms.
+- 🔭 Building scalable **MERN Stack** applications and AI-powered products
+- 🌱 Learning **Backend Engineering, System Design, Distributed Systems, and Agentic AI**
+- 🤖 Exploring **LLMs, RAG, AI Agents, LangChain, MCP, Vector Databases, and AI Automation**
+- 🚀 Improving application performance, scalability, and developer experience
+- 🤝 Open to collaborating on **Backend, Full Stack, and AI projects**
+- 💬 Ask me about **MERN Stack, Node.js, React, PostgreSQL, GenAI, and Data Structures & Algorithms**
+- 🏆 Solved **2500+ DSA problems** across multiple coding platforms
+- ⚡ I enjoy turning complex ideas into scalable, production-ready software.
 
-🏆 Milestone: Successfully solved 2500+ DSA problems across various coding platforms!
+---
 
-⚡ Fun fact: I love the entire lifecycle of software—from a messy brainstorming session to a clean, production-ready deployment.
+## 🛠️ Tech Stack
 
-🛠️ Technical Arsenal
-Languages
+### 💻 Languages
+`Java` • `JavaScript` • `TypeScript` • `Python` • `SQL` • `C++`
 
-Java • JavaScript • TypeScript • Python • SQL • C++
+### 🎨 Frontend
+`React.js` • `Next.js` • `HTML5` • `CSS3` • `Tailwind CSS` • `Vite`
 
-Frontend
+### ⚙️ Backend
+`Node.js` • `Express.js` • `REST APIs` • `JWT Authentication`
 
-React.js • Next.js • HTML • CSS • Tailwind CSS • Vite
+### 🗄️ Databases & ORMs
+`MongoDB` • `PostgreSQL` • `NeonDB` • `Prisma ORM` • `Drizzle ORM` • `ChromaDB`
 
-Backend
+### 🤖 AI & GenAI
+`LangChain` • `RAG` • `Agentic AI` • `Gemini API` • `OpenAI API` • `Mistral AI` • `Hugging Face` • `Vector Embeddings`
 
-Node.js • Express.js • REST APIs • JWT Authentication
+### ☁️ Cloud & Dev Tools
+`Git` • `GitHub` • `Docker` • `Postman` • `VS Code` • `Vercel` • `Render` • `Cloudinary`
 
-Databases
+---
 
-MongoDB • PostgreSQL • NeonDB • Prisma ORM • Drizzle ORM • ChromaDB
+## 💡 Interests
 
-AI & GenAI
+- 🚀 Full Stack Development
+- ⚙️ Backend Engineering
+- 🤖 Generative AI & AI Agents
+- 🏗️ System Design & Distributed Systems
+- 📊 Data Structures & Algorithms
+- ☁️ Cloud & Scalable Architectures
 
-LangChain • RAG • Agentic AI • Gemini API • OpenAI API • Mistral AI • Hugging Face • Vector Embeddings
+---
 
-Developer Tools
-
-Git • GitHub • Docker • Postman • VS Code • Vercel • Render • Cloudinary
-
+### ⭐ "Build. Learn. Optimize. Repeat."
