@@ -1,6 +1,6 @@
 # Hi there, I'm Nitin Singh 👋
 
-### Full Stack Developer | MERN Stack | GenAI & Agentic AI Enthusiast
+### AI Engineer | Full Stack Developer | MERN Stack | GenAI & Agentic AI Enthusiast
 
 I'm a passionate software developer who enjoys building scalable web applications, AI-powered products, and robust backend systems. I love transforming ideas into production-ready applications by combining modern web technologies with Generative AI. Alongside development, I have a strong passion for Data Structures & Algorithms and continuously strive to write clean, efficient, and scalable software.
 
